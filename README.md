@@ -1,6 +1,6 @@
 # Nadia Odunayo
 
-I'm a junior web developer based in London who is looking for exciting positions doing web development and more, in a startup or digital agency/consultancy.
+I am a web developer based in London. I'm currently working for [Pivotal Labs](http://www.pivotallabs.com).
 
 ##Web development
 
@@ -34,6 +34,11 @@ I've learnt so much since July 2013 and am looking for projects and positions wh
 * Object­ oriented principles and design
 * Pair programming
 
+###Pivotal Labs
+####January 2014 - Present
+
+* Working as a Software Engineer in Pivotal Labs' London office
+
 
 ###Makers Academy
 ####September-December 2013
@@ -41,6 +46,7 @@ I've learnt so much since July 2013 and am looking for projects and positions wh
 * 12-week bootcamp, with 12-hour days
 * Full-stack web development
 * Focus on Agile practices, especially TDD and pair programming
+* Spent a further two weeks there in January acting as a teaching assistant
 
 
 ###Code First: Girls
