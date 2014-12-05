@@ -1,6 +1,6 @@
 # Nadia Odunayo
 
-I am a web developer based in London. I'm currently working for [Pivotal Labs](http://www.pivotallabs.com).
+I am a software engineer based in London. I currently work for [Pivotal Labs](http://www.pivotallabs.com).
 
 ##Web development
 
@@ -43,7 +43,7 @@ I've learnt so much since July 2013 and am looking for projects and positions wh
 ###Makers Academy
 ####September-December 2013
 
-* 12-week bootcamp, with 12-hour days
+* 12-week bootcamp
 * Full-stack web development
 * Focus on Agile practices, especially TDD and pair programming
 * Spent a further two weeks there in January acting as a teaching assistant
@@ -59,6 +59,6 @@ I've learnt so much since July 2013 and am looking for projects and positions wh
 
 ##Other information
 
-* Please visit my personal webpage [here](http://www.nadidami.info)
+* Please visit my personal webpage [here](http://www.nadiaodunayo.com)
 * For more detail on other experiences, please see my [LinkedIn profile](http://www.linkedin.com/in/nodunayo)
 * You can e-mail me on nodunayo@gmail.com to request a pdf copy of my complete CV or just to get in touch!
