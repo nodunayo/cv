@@ -10,17 +10,14 @@ I've learnt so much since July 2013 and am looking for projects and positions wh
 
 ###Skills
 
-* Ruby 2.0
+* Ruby
 * HTML5
 * CSS3 and Sass
 * JavaScript, jQuery, Ajax and CoffeeScript
-* Rails 4
+* Rails
 * Sinatra
-* Test­ driven development
-* Unit testing with RSpec and Jasmine
-* Integration testing with Capybara
-* Behaviour driven development with Cucumber
-* FactoryGirl fixtures and Shoulda matchers
+* Test Driven Development
+* Behaviour Driven Development
 * PostgreSQL and SQLite
 * DataMapper
 * Version control with git and GitHub
@@ -31,13 +28,14 @@ I've learnt so much since July 2013 and am looking for projects and positions wh
 * GitHub Flavoured Markdown
 * Deployment to Heroku
 * Agile values, principles and practice
-* Object­ oriented principles and design
+* Object oriented principles and design
 * Pair programming
 
 ###Pivotal Labs
 ####January 2014 - Present
 
 * Working as a Software Engineer in Pivotal Labs' London office
+* Currently on the Cloud Foundry Data Services team
 
 
 ###Makers Academy
