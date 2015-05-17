@@ -13,20 +13,20 @@ I've learnt so much since July 2013 and am looking for projects and positions wh
 * Ruby
 * HTML5
 * CSS3 and Sass
-* JavaScript, jQuery, Ajax and CoffeeScript
+* JavaScript, jQuery
 * Rails
 * Sinatra
-* Test Driven Development
-* Behaviour Driven Development
 * PostgreSQL and SQLite
 * DataMapper
 * Version control with git and GitHub
-* Twitter Bootstrap and Foundation
+* Twitter Bootstrap, Foundation, Skeleton
 * WebSockets
 * User authentication and authorisation with bcrypt and Devise
 * Integration of APIs including Twilio, Stripe, Paperclip, and Mailgun
 * GitHub Flavoured Markdown
-* Deployment to Heroku
+* Deployment to Heroku and Cloud Foundry
+* Test Driven Development
+* Behaviour Driven Development
 * Agile values, principles and practice
 * Object oriented principles and design
 * Pair programming
@@ -34,7 +34,7 @@ I've learnt so much since July 2013 and am looking for projects and positions wh
 ###Pivotal Labs
 ####January 2014 - Present
 
-* Working as a Software Engineer in Pivotal Labs' London office
+* Working as a Software Engineer and Agile Consultant in Pivotal Labs' London office
 * Currently on the Cloud Foundry Data Services team
 
 
@@ -57,6 +57,6 @@ I've learnt so much since July 2013 and am looking for projects and positions wh
 
 ##Other information
 
-* Please visit my personal webpage [here](http://www.nadiaodunayo.com)
+* Please visit my [personal webpage](http://www.nadiaodunayo.com)
 * For more detail on other experiences, please see my [LinkedIn profile](http://www.linkedin.com/in/nodunayo)
-* You can e-mail me on nodunayo@gmail.com to request a pdf copy of my complete CV or just to get in touch!
+* You can e-mail me at nodunayo@gmail.com
