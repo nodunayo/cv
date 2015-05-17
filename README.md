@@ -54,6 +54,17 @@ I've learnt so much since July 2013 and am looking for projects and positions wh
 * Full-stack web development
 * Introductions to HTML, CSS, Ruby, Sinatra, Rails, MongoDB, git and GitHub
 
+##Conferences
+
+###Speaking
+####2015
+* RailsConf
+* GORUCO
+* Brighton Ruby 
+
+###Committee
+####2015
+* RubyConf
 
 ##Other information
 
