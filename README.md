@@ -66,7 +66,7 @@ Playing Games In The Clouds at:
 ###Committee
 ####2015
 * RubyConf
-* [Pivotal Labs Lunch & Learns](http://www.meetup.com/Pivotal-London-Talks/)
+* [Pivotal London Lunch & Learns](http://www.meetup.com/Pivotal-London-Talks/)
 
 ##Other information
 
