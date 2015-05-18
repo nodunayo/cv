@@ -54,17 +54,19 @@ I've learnt so much since July 2013 and am looking for projects and positions wh
 * Full-stack web development
 * Introductions to HTML, CSS, Ruby, Sinatra, Rails, MongoDB, git and GitHub
 
-##Conferences
+##Conferences/Events
 
 ###Speaking
 ####2015
-* RailsConf
+Playing Games In The Clouds at:
+* [RailsConf](http://confreaks.tv/videos/railsconf2015-playing-games-in-the-clouds)
 * GORUCO
 * Brighton Ruby 
 
 ###Committee
 ####2015
 * RubyConf
+* [Pivotal Labs Lunch & Learns](http://www.meetup.com/Pivotal-London-Talks/)
 
 ##Other information
 
