@@ -1,6 +1,6 @@
 # Nadia Odunayo
 
-I am a software engineer based in London. I currently work for [Pivotal Labs](http://www.pivotallabs.com).
+I am a software engineer based in London. I currently run Ignition Works, a company buildling fun and worthwhile tech products, whilst interacting with the tech industry in a sustainable way.
 
 ##Web development
 
@@ -10,10 +10,9 @@ I've learnt so much since July 2013 and am looking for projects and positions wh
 
 ###Skills
 
-* Ruby
+* Ruby, Golang
 * HTML5
 * CSS3 and Sass
-* JavaScript, jQuery
 * Rails
 * Sinatra
 * PostgreSQL and SQLite
@@ -25,6 +24,7 @@ I've learnt so much since July 2013 and am looking for projects and positions wh
 * Integration of APIs including Twilio, Stripe, Paperclip, and Mailgun
 * GitHub Flavoured Markdown
 * Deployment to Heroku and Cloud Foundry
+* BOSH, Vagrant, Docker
 * Test Driven Development
 * Behaviour Driven Development
 * Agile values, principles and practice
@@ -32,10 +32,10 @@ I've learnt so much since July 2013 and am looking for projects and positions wh
 * Pair programming
 
 ###Pivotal Labs
-####January 2014 - Present
+####January 2014 - July 2015
 
 * Working as a Software Engineer and Agile Consultant in Pivotal Labs' London office
-* Currently on the Cloud Foundry Data Services team
+* Worked on the Cloud Foundry Data Services team for over a year
 
 
 ###Makers Academy
