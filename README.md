@@ -1,6 +1,6 @@
 # Nadia Odunayo
 
-I am a software engineer based in London. I currently run Ignition Works, a company buildling fun and worthwhile tech products, whilst interacting with the tech industry in a sustainable way.
+I am a software engineer based in London. I currently run [Ignition Works](http://ignition.works), a company buildling fun and worthwhile tech products, whilst interacting with the tech industry in a sustainable way.
 
 ##Web development
 
@@ -8,21 +8,11 @@ As a by-product of exploring tech entrepreneurship, I have also discovered the w
 
 I've learnt so much since July 2013 and am looking for projects and positions where I can continue to challenge and stretch myself.
 
-###Skills
+###Key Skills & Practices
 
-* Ruby, Golang
-* HTML5
-* CSS3 and Sass
+* Ruby
 * Rails
-* Sinatra
-* PostgreSQL and SQLite
-* DataMapper
-* Version control with git and GitHub
-* Twitter Bootstrap, Foundation, Skeleton
-* WebSockets
-* User authentication and authorisation with bcrypt and Devise
-* Integration of APIs including Twilio, Stripe, Paperclip, and Mailgun
-* GitHub Flavoured Markdown
+* Swift
 * Deployment to Heroku and Cloud Foundry
 * BOSH, Vagrant, Docker
 * Test Driven Development
@@ -30,6 +20,8 @@ I've learnt so much since July 2013 and am looking for projects and positions wh
 * Agile values, principles and practice
 * Object oriented principles and design
 * Pair programming
+
+###Software Development Career History
 
 ###Pivotal Labs
 ####January 2014 - July 2015
@@ -60,7 +52,7 @@ I've learnt so much since July 2013 and am looking for projects and positions wh
 ####2015
 Playing Games In The Clouds at:
 * [RailsConf](http://confreaks.tv/videos/railsconf2015-playing-games-in-the-clouds)
-* GORUCO
+* [GORUCO](http://confreaks.tv/videos/goruco2015-keynote-playing-games-in-the-clouds)
 * Brighton Ruby 
 
 ###Committee
