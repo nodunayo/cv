@@ -46,10 +46,16 @@ I am a software engineer based in London. I currently run a small company called
 
 ### Speaking
 #### 2015
-Playing Games In The Clouds at:
+[Playing Games In The Clouds](https://speakerdeck.com/nodunayo/playing-games-in-the-clouds) at:
 * [RailsConf](http://confreaks.tv/videos/railsconf2015-playing-games-in-the-clouds)
 * [GORUCO](http://confreaks.tv/videos/goruco2015-keynote-playing-games-in-the-clouds)
-* Brighton Ruby 
+* [Brighton Ruby](https://vimeo.com/album/4068783/video/168916228)
+#### 2016
+[The Guest: A Guide To Code Hospitality](https://speakerdeck.com/nodunayo/the-guest-a-guide-to-code-hospitality) at:
+* [RailsConf](https://www.youtube.com/watch?v=hHzWG1FltaE)
+* [GORUCO](https://www.youtube.com/watch?v=GUuAp6c1ylM)
+* Nordic Ruby
+* Abstractions
 
 ### Committees
 #### 2015
