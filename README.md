@@ -55,10 +55,12 @@ Playing Games In The Clouds at:
 * [GORUCO](http://confreaks.tv/videos/goruco2015-keynote-playing-games-in-the-clouds)
 * Brighton Ruby 
 
-### Committee
+### Committees
 #### 2015
 * RubyConf
 * [Pivotal London Lunch & Learns](http://www.meetup.com/Pivotal-London-Talks/)
+#### 2017
+* [Codeland](http://codelandconf.com/)
 
 ## Other information
 
