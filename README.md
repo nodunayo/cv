@@ -1,6 +1,6 @@
 # Nadia Odunayo
 
-I am a software engineer based in London. I currently run a small company called Ignition Works with my business partner, @theozaurus. 
+I am a software engineer based in London. I currently run a small company called Ignition Works with my business partner, [@theozaurus](https://github.com/theozaurus). 
 
 ## Web development
 
