@@ -4,17 +4,13 @@ I am a software engineer based in London. I currently run a small company called
 
 ## Web development
 
-As a by-product of exploring tech entrepreneurship, I have also discovered the world of coding, securing a place on the [Code First: Girls](http://www.codefirstgirls.org.uk/) course and a fully-paid scholarship to [Makers Academy](http://www.makersacademy.com), an intensive 12 week software development course.
-
-I've learnt so much since July 2013 and am looking for projects and positions where I can continue to challenge and stretch myself.
-
 ### Key Skills & Practices
 
 * Ruby
 * Rails
 * Swift
 * Deployment to Heroku and Cloud Foundry
-* BOSH, Vagrant, Docker
+* BOSH
 * Test Driven Development
 * Behaviour Driven Development
 * Agile values, principles and practice
