@@ -56,6 +56,13 @@ I am a software engineer based in London. I currently run a small company called
 * [GORUCO](https://www.youtube.com/watch?v=GUuAp6c1ylM)
 * Nordic Ruby
 * Abstractions
+#### 2017
+[Ruby Book Club LIVE](https://speakerdeck.com/nodunayo/ruby-book-club-live) at:
+* London Ruby User Group
+
+[This Code Sucks — A Story About Nonviolent Communication](https://speakerdeck.com/nodunayo/this-code-sucks-a-story-about-nonviolent-communication) at:
+* Ship It! Conf
+* Brighton Ruby
 
 ### Committees
 #### 2015
@@ -63,6 +70,7 @@ I am a software engineer based in London. I currently run a small company called
 * [Pivotal London Lunch & Learns](http://www.meetup.com/Pivotal-London-Talks/)
 #### 2017
 * [Codeland](http://codelandconf.com/)
+* RubyConf
 
 ## Other information
 
