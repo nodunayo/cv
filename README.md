@@ -21,7 +21,7 @@ I am a software engineer and product manager based in London. Currently, I am th
 ### Software Development Career History
 
 ### Ignition Works
-### August 2015 - April 2018
+#### August 2015 - April 2018
 
 * Co-Founder and Director
 * We did a mix of in-house product development and cloud software consultancy for enterprise
