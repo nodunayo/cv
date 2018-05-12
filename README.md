@@ -1,6 +1,6 @@
 # Nadia Odunayo
 
-I am a software engineer and product manager based in London. Currenty, I am the Co-Founder of [CodeNewbie](https://www.codenewbie.org). 
+I am a software engineer and product manager based in London. Currently, I am the Co-Founder of [CodeNewbie](https://www.codenewbie.org). 
 
 ## Web development
 
