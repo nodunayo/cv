@@ -76,7 +76,7 @@ I am a software engineer and product manager based in London. Currently, I am th
 
 #### 2018
 [The Case Of The Missing Method — A Ruby Mystery Story](http://www.nadiaodunayo.com/speaking/the-case-of-the-missing-method-a-ruby-mystery-story) at:
-* Brighton Ruby 
+* [Bath Ruby](https://www.youtube.com/watch?feature=youtu.be&v=nbZk7KqGILU)
 
 ### Conference Committees
 #### 2015
