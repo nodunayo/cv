@@ -9,16 +9,22 @@ I am a software engineer and product manager based in London. Currently, I am th
 * Ruby
 * Rails
 * Deployment to Heroku and Cloud Foundry
-* BOSH
-* Test Driven Development
-* Behaviour Driven Development
+* Test Driven Development (RSpec and Capybara)
+* Behaviour Driven Development (Cucumber)
 * Pair programming
 * Product Management
-* Agile values, principles and practice
+* Agile values, principles and practices
 * Object-oriented principles and design
 * Non-violent communication
 
 ### Software Development Career History
+
+### CodeNewbie
+#### April 2018 - Present
+
+* Chief Technology Officer
+* Leading development of new features and maintaining CodeNewbie software 
+* Leading research and development initiatives for new product offerings
 
 ### Ignition Works
 #### August 2015 - April 2018
@@ -72,16 +78,20 @@ I am a software engineer and product manager based in London. Currently, I am th
 
 [This Code Sucks — A Story About Nonviolent Communication](https://speakerdeck.com/nodunayo/this-code-sucks-a-story-about-nonviolent-communication) at:
 * Ship It! Conf
-* Brighton Ruby
+* [Brighton Ruby](https://brightonruby.com/2017/this-code-sucks-a-story-about-non-violent-communication-nadia-odunayo/)
 
 #### 2018
 [The Case Of The Missing Method — A Ruby Mystery Story](http://www.nadiaodunayo.com/speaking/the-case-of-the-missing-method-a-ruby-mystery-story) at:
 * [Bath Ruby](https://www.youtube.com/watch?feature=youtu.be&v=nbZk7KqGILU)
+* [EuRuKo](https://www.youtube.com/watch?v=wkz-B1w2GVM)
+
+Coming up: RubyConf Malaysia, RubyConf, RubyConf Australia, and TraversalConf
 
 ### Conference Committees
 #### 2015
 * RubyConf
 * [Pivotal London Lunch & Learns](http://www.meetup.com/Pivotal-London-Talks/)
+
 #### 2017
 * [Codeland](http://codelandconf.com/)
 * RubyConf
@@ -94,4 +104,4 @@ I am a software engineer and product manager based in London. Currently, I am th
 
 * Please visit my [personal webpage](http://www.nadiaodunayo.com)
 * For more detail on other experiences, please see my [LinkedIn profile](http://www.linkedin.com/in/nodunayo)
-* You can e-mail me at nodunayo@gmail.com
+* You can e-mail me at nodunayo@gmail.com.
