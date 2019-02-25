@@ -1,6 +1,6 @@
 # Nadia Odunayo
 
-I am a software engineer and product manager based in London. Currently, I am the CTO of [CodeNewbie](https://www.codenewbie.org). 
+I am a software engineer and product manager based in London. Currently, I am running [The StoryGraph](http://www.thestorygraph.com). 
 
 ## Web development
 
@@ -19,8 +19,13 @@ I am a software engineer and product manager based in London. Currently, I am th
 
 ### Software Development Career History
 
+### The StoryGraph
+#### January 2019 - present
+* Founder and CEO
+* Building a new website for avid book readers
+
 ### CodeNewbie
-#### April 2018 - Present
+#### April 2018 - December 2018
 
 * Chief Technology Officer
 * Leading development of new features and maintaining CodeNewbie software 
@@ -37,7 +42,7 @@ I am a software engineer and product manager based in London. Currently, I am th
 ### Pivotal Labs
 #### January 2014 - July 2015
 
-* Working as a Software Engineer and Agile Consultant in Pivotal Labs' London office
+* Software Engineer and Agile Consultant in Pivotal Labs' London office
 * Worked on the Cloud Foundry Data Services team for over a year
 
 ### Makers Academy
@@ -59,18 +64,18 @@ I am a software engineer and product manager based in London. Currently, I am th
 
 ### Speaking
 
-#### 2015
-[Playing Games In The Clouds](https://speakerdeck.com/nodunayo/playing-games-in-the-clouds) at:
-* [RailsConf](http://confreaks.tv/videos/railsconf2015-playing-games-in-the-clouds)
-* [GORUCO](http://confreaks.tv/videos/goruco2015-keynote-playing-games-in-the-clouds)
-* [Brighton Ruby](https://vimeo.com/album/4068783/video/168916228)
+#### 2019
+[The Case Of The Missing Method — A Ruby Mystery Story](http://www.nadiaodunayo.com/speaking/the-case-of-the-missing-method-a-ruby-mystery-story) at:
+* [RubyConf AU](https://www.youtube.com/watch?v=aRkHqYDi_wQ&feature=youtu.be)
 
-#### 2016
-[The Guest: A Guide To Code Hospitality](https://speakerdeck.com/nodunayo/the-guest-a-guide-to-code-hospitality) at:
-* [RailsConf](https://www.youtube.com/watch?v=hHzWG1FltaE)
-* [GORUCO](https://www.youtube.com/watch?v=GUuAp6c1ylM)
-* Nordic Ruby
-* Abstractions
+Coming up: [Traversal](https://traversalconf.com/)
+
+#### 2018
+[The Case Of The Missing Method — A Ruby Mystery Story](http://www.nadiaodunayo.com/speaking/the-case-of-the-missing-method-a-ruby-mystery-story) at:
+* [Bath Ruby](https://www.youtube.com/watch?feature=youtu.be&v=nbZk7KqGILU)
+* [EuRuKo](https://www.youtube.com/watch?v=wkz-B1w2GVM)
+* RubyConf Malaysia
+* [RubyConf](https://www.youtube.com/watch?v=mn2D_k-X-es)
 
 #### 2017
 [Ruby Book Club LIVE](https://speakerdeck.com/nodunayo/ruby-book-club-live) at:
@@ -80,21 +85,28 @@ I am a software engineer and product manager based in London. Currently, I am th
 * Ship It! Conf
 * [Brighton Ruby](https://brightonruby.com/2017/this-code-sucks-a-story-about-non-violent-communication-nadia-odunayo/)
 
-#### 2018
-[The Case Of The Missing Method — A Ruby Mystery Story](http://www.nadiaodunayo.com/speaking/the-case-of-the-missing-method-a-ruby-mystery-story) at:
-* [Bath Ruby](https://www.youtube.com/watch?feature=youtu.be&v=nbZk7KqGILU)
-* [EuRuKo](https://www.youtube.com/watch?v=wkz-B1w2GVM)
+#### 2016
+[The Guest: A Guide To Code Hospitality](https://speakerdeck.com/nodunayo/the-guest-a-guide-to-code-hospitality) at:
+* [RailsConf](https://www.youtube.com/watch?v=hHzWG1FltaE)
+* [GORUCO](https://www.youtube.com/watch?v=GUuAp6c1ylM)
+* Nordic Ruby
+* Abstractions
 
-Coming up: RubyConf Malaysia, RubyConf, RubyConf Australia, and TraversalConf
+#### 2015
+[Playing Games In The Clouds](https://speakerdeck.com/nodunayo/playing-games-in-the-clouds) at:
+* [RailsConf](http://confreaks.tv/videos/railsconf2015-playing-games-in-the-clouds)
+* [GORUCO](http://confreaks.tv/videos/goruco2015-keynote-playing-games-in-the-clouds)
+* [Brighton Ruby](https://vimeo.com/album/4068783/video/168916228)
 
 ### Conference Committees
-#### 2015
-* RubyConf
-* [Pivotal London Lunch & Learns](http://www.meetup.com/Pivotal-London-Talks/)
 
 #### 2017
 * [Codeland](http://codelandconf.com/)
 * RubyConf
+
+#### 2015
+* RubyConf
+* [Pivotal London Lunch & Learns](http://www.meetup.com/Pivotal-London-Talks/)
 
 ## Other roles
 
